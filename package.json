@@ -1,7 +1,7 @@
 {
   "name": "jsx-code-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple JSX code challenge presented in Angela Yu's web dev bootcamp",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
